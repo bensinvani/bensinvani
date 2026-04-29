@@ -10,7 +10,7 @@ I build scalable web systems and create immersive game worlds.
 
 ### 📌 What I'm working on
 - Full-stack applications with real-world impact  
-- Game development projects in Unity & Unreal  
+- Game development projects in Unity & Unreal engine 5  
 
 ### 🌐 Connect with me
 - Portfolio: https://portfolio-bay-nine-24.vercel.app/  
