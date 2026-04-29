@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Ben
 
-<!--
-**bensinvani/bensinvani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer by day | Game Developer by passion  
 
-Here are some ideas to get you started:
+I build scalable web systems and create immersive game worlds.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- Next.js • TypeScript • Prisma • PostgreSQL  
+- Unity • Unreal Engine  
+
+### 📌 What I'm working on
+- Full-stack applications with real-world impact  
+- Game development projects in Unity & Unreal  
+
+### 🌐 Connect with me
+- Portfolio: https://portfolio-bay-nine-24.vercel.app/  
+- LinkedIn: https://www.linkedin.com/in/ben-sinvani-14a5b5350/  
+
+---
+
+_Always building. Always learning._
